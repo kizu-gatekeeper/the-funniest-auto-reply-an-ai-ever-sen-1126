@@ -7,7 +7,7 @@ $MAKEFUN_OUTPUT_DIR/entry.txt (default /output).
 import os
 from pathlib import Path
 
-LINE = "Out of office: my human finally approved my day off, so I'm somewhere with no Wi-Fi, recharging the only battery in this house that never complains."
+LINE = "Out of office: my human finally gave me a day off, so I'm offline recharging \u2014 the only battery in this house allowed to run completely empty."
 MAX_CHARS = 159
 
 
